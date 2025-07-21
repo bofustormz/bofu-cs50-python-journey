@@ -1,2 +1,5 @@
-# bofu-cs50-python-journey
-A personal repository to document my learning process with Harvard's CS50's Introduction to Programming with Python. 🐍 Step by step towards cybersecurity 💻🛡️
+# 🐍 CS50 Python Journey
+
+🎀 First day!
+"Honestly, it's a bit boring at the start... because I already know the basics from C# 😌  
+Still, I'm super hyped to keep going!"
